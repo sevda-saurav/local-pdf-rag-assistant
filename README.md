@@ -1,5 +1,3 @@
-::: {align="center"}
-
 # 📄 Local PDF RAG Assistant
 
 **Chat with your PDFs using a locally running language model.**
@@ -345,7 +343,6 @@ distributing or reusing this project publicly.
 
 ---
 
-::: {align="center"}
 **Built with Python, Streamlit, Transformers, and a practical RAG
 pipeline.**
-:::
+
