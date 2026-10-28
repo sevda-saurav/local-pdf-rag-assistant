@@ -1,4 +1,3 @@
-::: {align="center"}
 # 📄 Local PDF RAG Assistant
 
 **Chat with your PDFs using a locally running language model.**
